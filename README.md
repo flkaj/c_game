@@ -2,4 +2,4 @@
 
 <br>
 
-<b>[guess_the_number](./guess_th_number.c)
+<b>[guess_the_number](./guess_the_number.c)
